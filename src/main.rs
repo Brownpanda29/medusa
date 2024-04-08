@@ -12,7 +12,7 @@ fn main() {
     let system_name = whoami::hostname();
 
     // Additional password
-    let additional_password = "WannacrywithBM&*^%$$$%^))(!@#";
+    let additional_password = "Rt8$zW4@xY2*qF6#vU9%nJ3^hP5&mX7";
 
     // Generate encryption key
     let mut encryption_key = system_name.clone();
